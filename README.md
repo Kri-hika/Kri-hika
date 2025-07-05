@@ -131,74 +131,59 @@ const kri: Developer = {
 
 ---
 
-<!-- PROJECTS_START -->
-## 🚀 Recent Development Activity (Auto-Updated)
-
-### 📈 **Contribution Overview**
-- **This Week:** 0 commits across 0 repositories
-- **This Month:** 0 commits (including private repos)
-- **This Year:** 0 total commits
-### 🏆 **GitHub Achievements**
-- 🎯 **Total Contributions:** 0 (2024)
-- 📁 **Repository Activity:** 0 public, 0 private repositories
-- 🔥 **Most Productive Day:** Unknown
-- ⭐ **Community Impact:** 0 stars received, 0 repositories forked
-
-### 📊 **Development Patterns**
-- **Peak Coding Hours:** Around Unknown
-- **Most Active Day:** Unknown
-- **Monthly Repository Activity:** 0 different repositories
-- **Recent Event Activity:** 0 total events tracked
-
----
-
-<!-- PROJECTS_END -->
-
-<!-- ACTIVITY_START -->
-## ⚡ Recent Activity (Auto-Updated)
-
-```
-📝 Jul 05 | Kri-hika | Add automated README updater
-📝 Jul 05 | Kri-hika | Update README.md...
-```
-
-*Last updated: July 05, 2025 at 18:18 UTC*
-
-<!-- ACTIVITY_END -->
-
----
-
-## 🚀 Things I've Built (And Learned From)
-
-### 📊 **Mental Health Visualization** 
-*Making mental health data accessible and actionable*
-- Interactive data visualization for mental health insights
-- Focus on accessibility and user-friendly design
-- Bridging the gap between data and understanding
-
-### 🛡️ **SecretGuard-CLI** 
-*Teaching AI to find secrets in code*
-- Fine-tuning LLMs for security analysis
-- Learning that synthetic datasets are harder than they look
-- Collaborative coding with some brilliant minds
-
-### 🗳️ **VoteChain** 
-*Democracy meets blockchain (responsibly)*
-- Built on ResilientDB (not just another Ethereum clone)
-- GraphQL APIs and real-time visualizations
-- Proving blockchain can be more than just hype
-
-### 👨‍🏫 **Faculty Management System**
-*MERN stack when MERN was cool*
-- Full-stack development from scratch
-- Deployed and actually used by real people
-- 90.5% productivity increase (they measured!)
-
-### 📊 **Dermato Research**
-*Deep learning meets dermatology*
-- Published in IEEE ICIDCA 2023
-- Computer vision for medical applications
-- Learning how AI can actually help healthcare
+🚀 Projects That Taught Me Things
+<div align="center">
+🎯 Featured Work
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/🧠-Mental%20Health%20Viz-64FFDA?style=for-the-badge" />
+<br/><br/>
+<strong>Making Data Human</strong><br/>
+<sub>🎨 Interactive visualizations for mental health insights<br/>
+💡 Learned: D3.js + user empathy = powerful combo<br/>
+🌟 <em>Accessibility-first design approach</em></sub>
+</td>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/🔒-SecretGuard%20CLI-BB86FC?style=for-the-badge" />
+<br/><br/>
+<strong>AI Security Detective</strong><br/>
+<sub>🤖 Fine-tuning LLMs to hunt code secrets<br/>
+💡 Learned: Synthetic datasets are deceptively hard<br/>
+🌟 <em>Collaborative coding with brilliant minds</em></sub>
+</td>
+</tr>
+</table>
+🛠️ The Journey
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🗳️-VoteChain-3498DB?style=for-the-badge" />
+<br/><br/>
+<strong>Democracy 2.0</strong><br/>
+<sub>⛓️ ResilientDB + GraphQL<br/>
+🎯 Proving blockchain ≠ just hype<br/>
+<em>Real-time vote visualization</em></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/👨‍🏫-Faculty%20System-E74C3C?style=for-the-badge" />
+<br/><br/>
+<strong>MERN Stack Reality</strong><br/>
+<sub>📈 90.5% productivity boost<br/>
+🚀 Deployed & actually used<br/>
+<em>Full-stack from scratch</em></sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🔬-Dermato%20AI-F39C12?style=for-the-badge" />
+<br/><br/>
+<strong>Med-Tech Research</strong><br/>
+<sub>📄 IEEE ICIDCA 2023<br/>
+🏥 Computer vision for healthcare<br/>
+<em>AI meets real problems</em></sub>
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
