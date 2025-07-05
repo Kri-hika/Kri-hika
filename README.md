@@ -23,11 +23,9 @@
 <!-- STATS_START -->
 ## 📊 Live GitHub Stats
 
-🔥 **9 repositories** | ⭐ **21 total stars** | 👥 **1 followers**
+🔥 **3 repositories** | ⭐ **0 total stars** | 👥 **1 followers**
 
-**Top Languages:** Python • JavaScript • HTML
-
-*Auto-updated every 6 hours*
+**Top Languages:** Jupyter Notebook • HTML
 
 <!-- STATS_END -->
 
@@ -134,48 +132,27 @@ const kri: Developer = {
 <!-- PROJECTS_START -->
 ## 🚀 Latest Projects (Auto-Updated)
 
-### 1. **Mental_Health_Visualization** ⭐ 0
-*Interactive visualization platform for mental health data and insights*
+### 1. **Kri-hika** ⭐ 0
+*No description available*
 
-**Language:** HTML | **Updated 2 weeks ago**
-**Topics:** `data-visualization` `mental-health` `analytics`
-🔗 [View Project](https://github.com/kri-hika/Mental_Health_Visualization)
-
----
-
-### 2. **VoteChain** ⭐ 3
-*Blockchain-based voting application built on ResilientDB*
-
-**Language:** JavaScript | **Updated 3 weeks ago**
-**Topics:** `blockchain` `voting` `resilientdb`
-🔗 [View Project](https://github.com/ResilientApp/VoteChain)
+**Language:** Mixed | **Updated today**
+🔗 [View Project](https://github.com/Kri-hika/Kri-hika)
 
 ---
 
-### 3. **SecretGuard-CLI** ⭐ 0
-*LLM-powered security analysis tool for code vulnerability detection*
+### 2. **Mental_Health_Visualization** ⭐ 0
+*No description available*
 
-**Language:** Python | **Updated 1 month ago**
-**Topics:** `security` `llm` `cli`
-🔗 [View Project](https://github.com/xf4c70r/SecretGuardCLI)
-
----
-
-### 4. **Faculty-Management-System** ⭐ 1
-*MERN stack application for streamlined faculty profile management*
-
-**Language:** JavaScript | **Updated 2 months ago**
-**Topics:** `mern` `faculty` `management`
-🔗 [View Project](https://github.com/kri-hika/Faculty-Management-System)
+**Language:** HTML | **Updated 210 days ago**
+🔗 [View Project](https://github.com/Kri-hika/Mental_Health_Visualization)
 
 ---
 
-### 5. **Data_Science_Internship** ⭐ 0
-*Projects and learnings from LetsGrowMore data science internship*
+### 3. **Data_Science_Internship** ⭐ 0
+*LetsGrowMore Internship : November-2021*
 
-**Language:** Jupyter Notebook | **Updated 3 months ago**
-**Topics:** `data-science` `machine-learning` `internship`
-🔗 [View Project](https://github.com/kri-hika/Data_Science_Internship)
+**Language:** Jupyter Notebook | **Updated 1313 days ago**
+🔗 [View Project](https://github.com/Kri-hika/Data_Science_Internship)
 
 ---
 
@@ -185,14 +162,10 @@ const kri: Developer = {
 ## ⚡ Recent Activity (Auto-Updated)
 
 ```
-📝 Dec 12 | Mental_Health_Visualization | update: enhance data filtering options
-📝 Dec 10 | VoteChain | feat: implement GraphQL transaction management  
-📝 Dec 08 | kri-hika | docs: update README with automated showcase
-📝 Dec 05 | SecretGuard-CLI | fix: improve LLM model accuracy
-📝 Dec 03 | Faculty-Management | refactor: optimize database queries
+📝 Jul 05 | Kri-hika | Update README.md...
 ```
 
-*Last updated: December 15, 2024 at 14:30 UTC*
+*Last updated: July 05, 2025 at 17:21 UTC*
 
 <!-- ACTIVITY_END -->
 
