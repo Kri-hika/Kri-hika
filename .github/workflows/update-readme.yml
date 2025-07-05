@@ -33,7 +33,7 @@ jobs:
     - name: Fetch GitHub data and update README
       env:
         GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-        USERNAME: ${{ secrets.USERNAME }}
+        USERNAME: ${{ github.repository_owner }}
       run: |
         python .github/scripts/update_readme.py
 
