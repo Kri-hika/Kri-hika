@@ -23,9 +23,10 @@
 <!-- STATS_START -->
 ## 📊 Live GitHub Stats
 
-👀 **Profile Views:** External counter needed | 🔥 **Total Repositories:** 0 | ⭐ **Total Stars Earned:** 0 | 👥 **Followers:** 0
+👀 **Profile Views:** External counter needed | 🔥 **Total Repositories:** 5 | ⭐ **Total Stars Earned:** 1 | 👥 **Followers:** 1
 
-**Total Commits This Year:** 0 | **Total Repositories Contributed To:** 0 | **Repository Breakdown:** 0 owned, 0 collaborated, 0 forked
+**Most Active Languages:** HTML • TypeScript • Jupyter Notebook
+**Total Commits This Year:** 6 | **Total Repositories Contributed To:** 0 | **Repository Breakdown:** 3 owned, 0 collaborated, 2 forked
 
 *Auto-updated every 6 hours*
 
