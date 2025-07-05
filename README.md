@@ -23,9 +23,10 @@
 <!-- STATS_START -->
 ## 📊 Live GitHub Stats
 
-🔥 **9 repositories** | ⭐ **21 total stars** | 👥 **1 followers**
+👀 **Profile Views:** External counter needed | 🔥 **Total Repositories:** 36 | ⭐ **Total Stars Earned:** 7 | 👥 **Followers:** 1
 
-**Top Languages:** Python • JavaScript • HTML
+**Most Active Languages:** Python • CSS • HTML • Jupyter Notebook
+**Total Commits This Year:** 3 | **Total Repositories Contributed To:** 6 | **Repository Breakdown:** 34 owned, 34 collaborated, 2 forked
 
 *Auto-updated every 6 hours*
 
@@ -132,50 +133,23 @@ const kri: Developer = {
 ---
 
 <!-- PROJECTS_START -->
-## 🚀 Latest Projects (Auto-Updated)
+## 🚀 Recent Development Activity (Auto-Updated)
 
-### 1. **Mental_Health_Visualization** ⭐ 0
-*Interactive visualization platform for mental health data and insights*
+### 📈 **Contribution Overview**
+- **This Week:** 2 commits across 1 repositories
+- **This Month:** 3 commits (including private repos)
+- **This Year:** 3 total commits
+### 🏆 **GitHub Achievements**
+- 🎯 **Total Contributions:** 3 (2024)
+- 📁 **Repository Activity:** 16 public, 20 private repositories
+- 🔥 **Most Productive Day:** Saturday
+- ⭐ **Community Impact:** 7 stars received, 7 repositories forked
 
-**Language:** HTML | **Updated 2 weeks ago**
-**Topics:** `data-visualization` `mental-health` `analytics`
-🔗 [View Project](https://github.com/kri-hika/Mental_Health_Visualization)
-
----
-
-### 2. **VoteChain** ⭐ 3
-*Blockchain-based voting application built on ResilientDB*
-
-**Language:** JavaScript | **Updated 3 weeks ago**
-**Topics:** `blockchain` `voting` `resilientdb`
-🔗 [View Project](https://github.com/ResilientApp/VoteChain)
-
----
-
-### 3. **SecretGuard-CLI** ⭐ 0
-*LLM-powered security analysis tool for code vulnerability detection*
-
-**Language:** Python | **Updated 1 month ago**
-**Topics:** `security` `llm` `cli`
-🔗 [View Project](https://github.com/xf4c70r/SecretGuardCLI)
-
----
-
-### 4. **Faculty-Management-System** ⭐ 1
-*MERN stack application for streamlined faculty profile management*
-
-**Language:** JavaScript | **Updated 2 months ago**
-**Topics:** `mern` `faculty` `management`
-🔗 [View Project](https://github.com/kri-hika/Faculty-Management-System)
-
----
-
-### 5. **Data_Science_Internship** ⭐ 0
-*Projects and learnings from LetsGrowMore data science internship*
-
-**Language:** Jupyter Notebook | **Updated 3 months ago**
-**Topics:** `data-science` `machine-learning` `internship`
-🔗 [View Project](https://github.com/kri-hika/Data_Science_Internship)
+### 📊 **Development Patterns**
+- **Peak Coding Hours:** Around 17:00
+- **Most Active Day:** Saturday
+- **Monthly Repository Activity:** 2 different repositories
+- **Recent Event Activity:** 5 total events tracked
 
 ---
 

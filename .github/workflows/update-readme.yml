@@ -21,11 +21,6 @@ jobs:
       with:
         fetch-depth: 0
 
-    - name: Setup Node.js
-      uses: actions/setup-node@v4
-      with:
-        node-js-version: '18'
-
     - name: Setup Python
       uses: actions/setup-python@v4
       with:
@@ -33,13 +28,12 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install requests python-dateutil
-        npm install -g @octokit/rest
+        pip install requests python-dotenv
 
     - name: Fetch GitHub data and update README
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        USERNAME: ${{ github.repository_owner }}
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        USERNAME: ${{ secrets.USERNAME }}
       run: |
         python .github/scripts/update_readme.py
 
