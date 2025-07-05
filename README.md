@@ -23,12 +23,9 @@
 <!-- STATS_START -->
 ## 📊 Live GitHub Stats
 
-👀 **Profile Views:** External counter needed | 🔥 **Total Repositories:** 36 | ⭐ **Total Stars Earned:** 7 | 👥 **Followers:** 1
+🔥 **3 repositories** | ⭐ **0 total stars** | 👥 **1 followers**
 
-**Most Active Languages:** Python • CSS • HTML • Jupyter Notebook
-**Total Commits This Year:** 3 | **Total Repositories Contributed To:** 6 | **Repository Breakdown:** 34 owned, 34 collaborated, 2 forked
-
-*Auto-updated every 6 hours*
+**Top Languages:** Jupyter Notebook • HTML
 
 <!-- STATS_END -->
 
@@ -133,23 +130,29 @@ const kri: Developer = {
 ---
 
 <!-- PROJECTS_START -->
-## 🚀 Recent Development Activity (Auto-Updated)
+## 🚀 Latest Projects (Auto-Updated)
 
-### 📈 **Contribution Overview**
-- **This Week:** 2 commits across 1 repositories
-- **This Month:** 3 commits (including private repos)
-- **This Year:** 3 total commits
-### 🏆 **GitHub Achievements**
-- 🎯 **Total Contributions:** 3 (2024)
-- 📁 **Repository Activity:** 16 public, 20 private repositories
-- 🔥 **Most Productive Day:** Saturday
-- ⭐ **Community Impact:** 7 stars received, 7 repositories forked
+### 1. **Kri-hika** ⭐ 0
+*No description available*
 
-### 📊 **Development Patterns**
-- **Peak Coding Hours:** Around 17:00
-- **Most Active Day:** Saturday
-- **Monthly Repository Activity:** 2 different repositories
-- **Recent Event Activity:** 5 total events tracked
+**Language:** Mixed | **Updated today**
+🔗 [View Project](https://github.com/Kri-hika/Kri-hika)
+
+---
+
+### 2. **Mental_Health_Visualization** ⭐ 0
+*No description available*
+
+**Language:** HTML | **Updated 210 days ago**
+🔗 [View Project](https://github.com/Kri-hika/Mental_Health_Visualization)
+
+---
+
+### 3. **Data_Science_Internship** ⭐ 0
+*LetsGrowMore Internship : November-2021*
+
+**Language:** Jupyter Notebook | **Updated 1314 days ago**
+🔗 [View Project](https://github.com/Kri-hika/Data_Science_Internship)
 
 ---
 
@@ -159,14 +162,11 @@ const kri: Developer = {
 ## ⚡ Recent Activity (Auto-Updated)
 
 ```
-📝 Dec 12 | Mental_Health_Visualization | update: enhance data filtering options
-📝 Dec 10 | VoteChain | feat: implement GraphQL transaction management  
-📝 Dec 08 | kri-hika | docs: update README with automated showcase
-📝 Dec 05 | SecretGuard-CLI | fix: improve LLM model accuracy
-📝 Dec 03 | Faculty-Management | refactor: optimize database queries
+📝 Jul 05 | Kri-hika | Add automated README updater
+📝 Jul 05 | Kri-hika | Update README.md...
 ```
 
-*Last updated: December 15, 2024 at 14:30 UTC*
+*Last updated: July 05, 2025 at 18:18 UTC*
 
 <!-- ACTIVITY_END -->
 
