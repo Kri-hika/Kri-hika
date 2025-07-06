@@ -11,11 +11,13 @@ I build:
 ---
 
 <!-- STATS_START -->
+### 📊 At a Glance
+
 <table>
 <tr>
 <td align="center"><strong>5</strong><br/><sub>📁 Repos</sub></td>
 <td align="center"><strong>1</strong><br/><sub>⭐ Stars</sub></td>
-<td align="center"><strong>6</strong><br/><sub>📝 Commits</sub></td>
+<td align="center"><strong>7</strong><br/><sub>📝 Commits</sub></td>
 <td align="center"><strong>HTML</strong><br/><sub>🎨 Top Lang</sub></td>
 </tr>
 </table>
