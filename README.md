@@ -1,34 +1,28 @@
-# Welcome to my digital space ✨
-## I'm Krithika Naidu
+# 👋 Welcome to My Digital Studio
+**Hi there! I'm Krithika Naidu**, a Master's student in Computer Science at UC Davis and an aspiring Machine-Learning Engineer.  
+I build:
+- **Intelligent pipelines** (TensorFlow · PyTorch)  
+- **Interactive front-ends** (React · Next.js)  
+- **Secure systems** (Python · Blockchain)  
 
-<div align="center">
-
-```
-╭─────────────────────────────────────────────────────╮
-│  ██╗  ██╗██████╗ ██╗████████╗██╗  ██╗██╗██╗  ██╗ █████╗ │
-│  ██║ ██╔╝██╔══██╗██║╚══██╔══╝██║  ██║██║██║ ██╔╝██╔══██╗│
-│  █████╔╝ ██████╔╝██║   ██║   ███████║██║█████╔╝ ███████║│
-│  ██╔═██╗ ██╔══██╗██║   ██║   ██╔══██║██║██╔═██╗ ██╔══██║│
-│  ██║  ██╗██║  ██║██║   ██║   ██║  ██║██║██║  ██╗██║  ██║│
-│  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝│
-╰─────────────────────────────────────────────────────╯
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=4000&pause=1000&color=64FFDA&center=true&vCenter=true&width=500&lines=Building+tomorrow%2C+one+commit+at+a+time;Learning+in+public+%7C+Growing+with+code;From+data+science+to+distributed+systems;Graduate+researcher+%7C+UC+Davis)](https://git.io/typing-svg)
-
-</div>
+🎨 When I'm not coding, you'll find me sketching, cooking, or lost in a good novel.  
+👉 Explore my projects below, or [reach out](mailto:krithika.naidu05@gmail.com) to collaborate!
 
 ---
 
 <!-- STATS_START -->
-## 📊 Live GitHub Stats
+### 📊 At a Glance
 
-👀 **Profile Views:** External counter needed | 🔥 **Total Repositories:** 5 | ⭐ **Total Stars Earned:** 1 | 👥 **Followers:** 1
+<table>
+<tr>
+<td align="center"><strong>5</strong><br/><sub>📁 Repos</sub></td>
+<td align="center"><strong>1</strong><br/><sub>⭐ Stars</sub></td>
+<td align="center"><strong>6</strong><br/><sub>📝 Commits</sub></td>
+<td align="center"><strong>HTML</strong><br/><sub>🎨 Top Lang</sub></td>
+</tr>
+</table>
 
-**Most Active Languages:** HTML • TypeScript • Jupyter Notebook
-**Total Commits This Year:** 6 | **Total Repositories Contributed To:** 0 | **Repository Breakdown:** 3 owned, 0 collaborated, 2 forked
-
-*Auto-updated every 6 hours*
+<sub>*Live stats • Updated every 6hrs*</sub>
 
 <!-- STATS_END -->
 
@@ -54,7 +48,6 @@ const kri: Developer = {
   ],
   learningPath: [
     "How to make AI work offline (privacy ftw)",
-    "Blockchain without the blockchain bros",
     "Advanced machine learning applications"
   ],
   funFact: "I debug with console.log() and I'm not ashamed 🐛"
@@ -132,62 +125,6 @@ const kri: Developer = {
 
 ---
 
-🚀 Projects That Taught Me Things
-<div align="center">
-🎯 Featured Work
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/🧠-Mental%20Health%20Viz-64FFDA?style=for-the-badge" />
-<br/><br/>
-<strong>Making Data Human</strong><br/>
-<sub>🎨 Interactive visualizations for mental health insights<br/>
-💡 Learned: D3.js + user empathy = powerful combo<br/>
-🌟 <em>Accessibility-first design approach</em></sub>
-</td>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/🔒-SecretGuard%20CLI-BB86FC?style=for-the-badge" />
-<br/><br/>
-<strong>AI Security Detective</strong><br/>
-<sub>🤖 Fine-tuning LLMs to hunt code secrets<br/>
-💡 Learned: Synthetic datasets are deceptively hard<br/>
-🌟 <em>Collaborative coding with brilliant minds</em></sub>
-</td>
-</tr>
-</table>
-🛠️ The Journey
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🗳️-VoteChain-3498DB?style=for-the-badge" />
-<br/><br/>
-<strong>Democracy 2.0</strong><br/>
-<sub>⛓️ ResilientDB + GraphQL<br/>
-🎯 Proving blockchain ≠ just hype<br/>
-<em>Real-time vote visualization</em></sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/👨‍🏫-Faculty%20System-E74C3C?style=for-the-badge" />
-<br/><br/>
-<strong>MERN Stack Reality</strong><br/>
-<sub>📈 90.5% productivity boost<br/>
-🚀 Deployed & actually used<br/>
-<em>Full-stack from scratch</em></sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🔬-Dermato%20AI-F39C12?style=for-the-badge" />
-<br/><br/>
-<strong>Med-Tech Research</strong><br/>
-<sub>📄 IEEE ICIDCA 2023<br/>
-🏥 Computer vision for healthcare<br/>
-<em>AI meets real problems</em></sub>
-</td>
-</tr>
-</table>
-</div>
-
----
-
 ## 🌱 What's Next?
 
 I'm that person who gets excited about:
@@ -197,81 +134,6 @@ I'm that person who gets excited about:
 - Contributing to open source when I have something worth sharing
 
 Currently exploring privacy-preserving AI, blockchain applications, and how to make technology more accessible. Always down to collaborate on projects that matter.
-
----
-
-## 🎯 The Journey So Far
-
-<div align="center">
-
-### 🌟 **Milestones & Achievements**
-
-```
-2021 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2025
-
-📊 Data Science Intern     📄 IEEE Publications     🎓 B.Tech Distinction     🔬 UC Davis Research     🚀 Building Tomorrow
-   (Nov 2021)                (2022-2023)              (9.44/10)                (Jan 2024)              (Current)
-       │                          │                        │                        │                       │
-       ▼                          ▼                        ▼                        ▼                       ▼
-   First ML taste          ICAST + ICIDCA            Computer Engineering      Graduate RA +           Future tech
-   @ LetsGrowMore         Dermato Research           with Distinction        SecretGuard-CLI         
-```
-
-### 📈 **Growth Trajectory**
-
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/2021-Data%20Science-00D4AA?style=for-the-badge" />
-<br/><br/>
-🌱 <strong>Foundation</strong><br/>
-<sub>Learning ML basics<br/>
-First internship<br/>
-Building curiosity</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/2022-Research-9B59B6?style=for-the-badge" />
-<br/><br/>
-📄 <strong>Publications</strong><br/>
-<sub>IEEE ICAST paper<br/>
-Dermato project<br/>
-Academic recognition</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/2023-Excellence-E74C3C?style=for-the-badge" />
-<br/><br/>
-🎓 <strong>Graduation</strong><br/>
-<sub>9.44/10 CGPA<br/>
-IEEE ICIDCA 2023<br/>
-Top performer</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/2024-Growth-3498DB?style=for-the-badge" />
-<br/><br/>
-🔬 <strong>Research</strong><br/>
-<sub>UC Davis Master's<br/>
-Graduate RA<br/>
-Collaborative projects</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/2025-Innovation-F39C12?style=for-the-badge" />
-<br/><br/>
-🚀 <strong>Building</strong><br/>
-<sub>Future tech</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-**2021 → 2025**: *From curious learner to AI researcher*  
-**2 IEEE publications** • **Multiple breakthrough projects** • **Endless curiosity**
-
-</div>
 
 ---
 
