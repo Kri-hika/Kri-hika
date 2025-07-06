@@ -11,15 +11,16 @@ I build:
 ---
 
 <!-- STATS_START -->
-## 📊 Live GitHub Stats
+<table>
+<tr>
+<td align="center"><strong>5</strong><br/><sub>📁 Repos</sub></td>
+<td align="center"><strong>1</strong><br/><sub>⭐ Stars</sub></td>
+<td align="center"><strong>6</strong><br/><sub>📝 Commits</sub></td>
+<td align="center"><strong>HTML</strong><br/><sub>🎨 Top Lang</sub></td>
+</tr>
+</table>
 
-👀 **Profile Views:** External counter needed | 🔥 **Total Repositories:** 5 | ⭐ **Total Stars Earned:** 1 | 👥 **Followers:** 1
-
-**Most Active Languages:** HTML • TypeScript • Jupyter Notebook
-**Total Commits This Year:** 7 | **Total Repositories Contributed To:** 0 | **Repository Breakdown:** 3 owned, 0 collaborated, 2 forked
-
-*Auto-updated every 6 hours*
-
+<sub>*Live stats • Updated every 6hrs*</sub>
 <!-- STATS_END -->
 
 ---

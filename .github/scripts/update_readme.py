@@ -280,23 +280,20 @@ class GitHubReadmeUpdater:
         return ", ".join(percentages)
 
     def generate_stats_section(self, user_stats, repo_stats, contributions):
-        """Generate accurate stats section"""
-        section = "## 📊 Live GitHub Stats\n\n"
-        
-        # Note about profile views
-        section += f"👀 **Profile Views:** {self.get_profile_views()} | "
-        section += f"🔥 **Total Repositories:** {repo_stats.get('total_repos', 0)} | "
-        section += f"⭐ **Total Stars Earned:** {repo_stats.get('total_stars', 0)} | "
-        section += f"👥 **Followers:** {user_stats.get('followers', 0)}\n\n"
-        
-        if repo_stats.get('top_languages'):
-            section += f"**Most Active Languages:** {' • '.join(repo_stats['top_languages'])}\n"
-        
-        section += f"**Total Commits This Year:** {contributions.get('yearly_commits', 0)} | "
-        section += f"**Total Repositories Contributed To:** {contributions.get('total_contributions', 0)} | "
-        section += f"**Repository Breakdown:** {repo_stats.get('own_repos', 0)} owned, {repo_stats.get('collaborated_repos', 0)} collaborated, {repo_stats.get('forked_repos', 0)} forked\n\n"
-        section += "*Auto-updated every 6 hours*\n\n"
-        
+        """Generate accurate stats section in table format for At a Glance"""
+        repo_count = repo_stats.get('total_repos', 0)
+        star_count = repo_stats.get('total_stars', 0)
+        commit_count = contributions.get('yearly_commits', 0)
+        top_lang = repo_stats.get('top_languages', ['-'])[0] if repo_stats.get('top_languages') else '-'
+
+        section = "### 📊 At a Glance\n\n"
+        section += "<table>\n<tr>\n"
+        section += f'<td align="center"><strong>{repo_count}</strong><br/><sub>📁 Repos</sub></td>\n'
+        section += f'<td align="center"><strong>{star_count}</strong><br/><sub>⭐ Stars</sub></td>\n'
+        section += f'<td align="center"><strong>{commit_count}</strong><br/><sub>📝 Commits</sub></td>\n'
+        section += f'<td align="center"><strong>{top_lang}</strong><br/><sub>🎨 Top Lang</sub></td>\n'
+        section += "</tr>\n</table>\n\n"
+        section += "<sub>*Live stats • Updated every 6hrs*</sub>\n"
         return section
 
     def generate_activity_section(self, repo_stats, contributions, repos):
