@@ -14,9 +14,30 @@ I build:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=kri-hika&color=64ffda&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/kri-hika?style=flat-square&color=64ffda&logo=github)
-![GitHub User's stars](https://img.shields.io/github/stars/kri-hika?style=flat-square&color=bb86fc&logo=github)
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://komarev.com/ghpvc/?username=kri-hika&color=64ffda&style=for-the-badge" alt="Profile Views"/>
+<br/>
+<sub><strong>👀 Profile Views</strong></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/github/followers/kri-hika?style=for-the-badge&color=64ffda&logo=github&logoColor=white" alt="Followers"/>
+<br/>
+<sub><strong>👥 Followers</strong></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/github/stars/kri-hika?style=for-the-badge&color=bb86fc&logo=github&logoColor=white" alt="Total Stars"/>
+<br/>
+<sub><strong>⭐ Total Stars</strong></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20Blockchain-ff6b9d?style=for-the-badge&logo=semantic-scholar&logoColor=white" alt="Focus Areas"/>
+<br/>
+<sub><strong>🎯 Focus Areas</strong></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -35,7 +56,6 @@ interface Developer {
 const kri: Developer = {
   location: process.env.NODE_ENV === "production" ? "Davis, CA" : "The Cloud ☁️",
   currentlyBuilding: [
-    "Mental health data visualization projects 📊",
     "Collaborative security analysis projects 🛡️",
     "Blockchain voting systems with ResilientDB 🗳️",
     "Graduate research in AI/ML applications 🔬"
@@ -54,26 +74,52 @@ const kri: Developer = {
 
 <div align="center">
 
-**Languages I Actually Use**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+<table>
+<tr>
+<td align="center" width="50%">
 
-**AI/ML Stack** (because who doesn't do AI these days)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+### 💻 **Core Languages**
 
-**Web Things**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Data & Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+</td>
+<td align="center" width="50%">
+
+### 🤖 **AI/ML Arsenal**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🌐 **Web & Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+</td>
+<td align="center" width="50%">
+
+### 🗄️ **Data & Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -85,14 +131,14 @@ const kri: Developer = {
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kri-hika&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=bb86fc&text_color=ffffff&border_radius=12&count_private=true&include_all_commits=true)
+<img src="https://github-readme-stats.vercel.app/api?username=kri-hika&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=bb86fc&text_color=ffffff&border_radius=12" alt="GitHub Stats" />
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kri-hika&theme=dark&hide_border=true&background=0D1117&stroke=64FFDA&ring=BB86FC&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border_radius=12&count_private=true)
+<img src="https://streak-stats.demolab.com?user=kri-hika&theme=radical&hide_border=true&background=0D1117&stroke=64FFDA&ring=BB86FC&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border_radius=12" alt="GitHub Streak" />
 
 </td>
 </tr>
@@ -102,14 +148,14 @@ const kri: Developer = {
 
 <table>
 <tr>
-<td width="40%">
+<td width="50%" align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kri-hika&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=ffffff&border_radius=12&langs_count=8&count_private=true&include_all_commits=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kri-hika&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=ffffff&border_radius=12&langs_count=6" alt="Top Languages" />
 
 </td>
-<td width="60%">
+<td width="50%" align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kri-hika&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=64ffda&line=bb86fc&point=64ffda&area=true&radius=12)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kri-hika&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=64ffda&line=bb86fc&point=64ffda&area=true&area_color=64ffda&radius=12" alt="Activity Graph" />
 
 </td>
 </tr>
