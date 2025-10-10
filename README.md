@@ -1,70 +1,34 @@
-# 👋 Welcome to My Digital Studio
-**Hi there! I'm Krithika Naidu**, a Master's student in Computer Science at UC Davis and an aspiring Machine-Learning Engineer.  
-I build:
-- **Intelligent pipelines** (TensorFlow · PyTorch)  
-- **Interactive front-ends** (React · Next.js)  
-- **Secure systems** (Python · Blockchain)  
+# 👋 Hey there! I'm Krithika
 
-🎨 When I'm not coding, you'll find me sketching, cooking, or lost in a good novel.  
-👉 Explore my projects below, or [reach out](mailto:krithika.naidu05@gmail.com) to collaborate!
+**Master's Student in Computer Science @ UC Davis**  
+*Specializing in ML Security, Data Pipeline Engineering & Production Systems*
 
----
+Right now I'm deep in the weeds of ML security, curating datasets for LLM-based secret detection training pipelines. I built an offer letter generation system that's actively used by the UC Davis CS department (solo project!), and I'm constantly experimenting with VectorDB's semantic search capabilities through local demos. When I'm not knee-deep in data pipelines, I'm building vote-chain web applications with ResilientDB as the backend database.
 
-## 📊 At a Glance
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://komarev.com/ghpvc/?username=kri-hika&color=64ffda&style=for-the-badge" alt="Profile Views"/>
-<br/>
-<sub><strong>👀 Profile Views</strong></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/github/followers/kri-hika?style=for-the-badge&color=64ffda&logo=github&logoColor=white" alt="Followers"/>
-<br/>
-<sub><strong>👥 Followers</strong></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/github/stars/kri-hika?style=for-the-badge&color=bb86fc&logo=github&logoColor=white" alt="Total Stars"/>
-<br/>
-<sub><strong>⭐ Total Stars</strong></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20Blockchain-ff6b9d?style=for-the-badge&logo=semantic-scholar&logoColor=white" alt="Focus Areas"/>
-<br/>
-<sub><strong>🎯 Focus Areas</strong></sub>
-</td>
-</tr>
-</table>
-
-</div>
+🎯 **Where I am:** Learning by building • Academic projects in active use • Growing through real challenges  
+🎨 **Beyond code:** Sketching, cooking, and lost in good novels fuel my creative problem-solving.
 
 ---
 
 ## 🌊 Currently Swimming In
 
 ```typescript
-interface Developer {
-  location: "Davis, CA" | "The Cloud ☁️";
-  currentlyBuilding: string[];
-  learningPath: string[];
-  funFact: string;
+interface CurrentFocus {
+  primaryWork: string;
+  activeProjects: string[];
+  learningMode: string;
+  impact: string;
 }
 
-const kri: Developer = {
-  location: process.env.NODE_ENV === "production" ? "Davis, CA" : "The Cloud ☁️",
-  currentlyBuilding: [
-    "Collaborative security analysis projects 🛡️",
-    "Blockchain voting systems with ResilientDB 🗳️",
-    "Graduate research in AI/ML applications 🔬"
+const rightNow: CurrentFocus = {
+  primaryWork: "Building ML systems that actually get used in production",
+  activeProjects: [
+    "UC Davis offer generation system (88% time savings, 200+ tests)",
+    "ML security pipelines with 10K+ curated datasets", 
+    "VectorDB semantic search prototypes for real applications"
   ],
-  learningPath: [
-    "How to make AI work offline (privacy ftw)",
-    "Advanced machine learning applications"
-  ],
-  funFact: "I debug with console.log() and I'm not ashamed 🐛"
+  learningMode: "Hands-on experimentation + academic rigor + production deployment",
+  impact: "Systems in active use, not just demos"
 };
 ```
 
@@ -74,58 +38,40 @@ const kri: Developer = {
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
+### 🔧 **Technologies I'm Working With**
 
-### 💻 **Core Languages**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="40" height="40" alt="Svelte" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" height="40" alt="Vite" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" width="40" height="40" alt="D3.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib" />
+<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40" height="40" alt="Seaborn" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<br>
 
-</td>
-<td align="center" width="50%">
+### 🚀 **Learning & Exploring**
 
-### 🤖 **AI/ML Arsenal**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### 🌐 **Web & Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-</td>
-<td align="center" width="50%">
-
-### 🗄️ **Data & Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-</td>
-</tr>
-</table>
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" alt="Hugging Face" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
 
 </div>
 
 ---
 
-## 📊 GitHub Wrapped (But Year-Round)
+## 📊 GitHub Wrapped
 
 <div align="center">
 
@@ -165,31 +111,33 @@ const kri: Developer = {
 
 ---
 
-## 🌱 What's Next?
+## 🎯 Where I'm heading
 
-I'm that person who gets excited about:
-- Making AI work without sending your data to Big Tech
-- Building things that solve actual problems (not just demos)
-- Learning new tech without falling for every trend
-- Contributing to open source when I have something worth sharing
+**Actively seeking:** ML Engineer / Data Pipeline Engineer / Product Engineer roles
 
-Currently exploring privacy-preserving AI, blockchain applications, and how to make technology more accessible. Always down to collaborate on projects that matter.
+Looking for teams that build ML-powered products people actually use. I want to optimize models for real-world performance, create seamless user experiences, and have fun solving problems that matter.
 
----
+**Target:** AI-first startups, product teams with ML at the core, or companies scaling intelligent systems.
 
-## 🤝 Let's Connect
-
-If you're working on something cool, building for good, or just want to chat about tech that actually matters:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krithika-naidu-5b3970214)
-[![Email](https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krithika.naidu05@gmail.com)
+**Goal:** Build ML products that are both powerful and delightful. Ready to integrate cutting-edge models into systems that users love.
 
 ---
 
-<div align="center">
+## Let's connect
 
-**⭐ Star something if it sparks joy**
+<a href="https://linkedin.com/in/krithikanaidu" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:krithika.naidu05@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://github.com/kri-hika" target="_blank">
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://substack.com/@krithikanaidu" target="_blank">
+<img src="https://img.shields.io/badge/-Substack-FF6719?style=flat-square&logo=substack&logoColor=white" alt="Substack" />
+</a>
 
-*Building bridges between cutting-edge research and real-world applications*
+---
 
-</div>
+*Building real projects, learning through doing, growing every day*
