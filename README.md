@@ -10,45 +10,17 @@ I build:
 
 ---
 
-<!-- STATS_START -->
-### 📊 At a Glance
+## 📊 At a Glance
 
-<table>
-<tr>
-<td align="center"><strong>6</strong><br/><sub>📁 Repos</sub></td>
-<td align="center"><strong>1</strong><br/><sub>⭐ Stars</sub></td>
-<td align="center"><strong>0</strong><br/><sub>📝 Commits</sub></td>
-<td align="center"><strong>HTML</strong><br/><sub>🎨 Top Lang</sub></td>
-</tr>
-</table>
+<div align="center">
 
-<sub>*Live stats • Updated every 6hrs*</sub>
-<!-- STATS_END -->
+![Profile Views](https://komarev.com/ghpvc/?username=kri-hika&color=64ffda&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/kri-hika?style=flat-square&color=64ffda&logo=github)
+![GitHub User's stars](https://img.shields.io/github/stars/kri-hika?style=flat-square&color=bb86fc&logo=github)
+
+</div>
 
 ---
-
-<!-- PROJECTS_START -->
-## 🚀 Recent Development Activity (Auto-Updated)
-
-### 📈 **Contribution Overview**
-- **This Week:** 0 commits across 0 repositories
-- **This Month:** 0 commits (including private repos)
-- **This Year:** 0 total commits
-### 🏆 **GitHub Achievements**
-- 🎯 **Total Contributions:** 0 (2024)
-- 📁 **Repository Activity:** 6 public, 0 private repositories
-- 🔥 **Most Productive Day:** Unknown
-- ⭐ **Community Impact:** 1 stars received, 0 repositories forked
-
-### 📊 **Development Patterns**
-- **Peak Coding Hours:** Around Unknown
-- **Most Active Day:** Unknown
-- **Monthly Repository Activity:** 0 different repositories
-- **Recent Event Activity:** 2 total events tracked
-
----
-
-<!-- PROJECTS_END -->
 
 ## 🌊 Currently Swimming In
 

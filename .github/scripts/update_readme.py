@@ -296,36 +296,6 @@ class GitHubReadmeUpdater:
         section += "<sub>*Live stats • Updated every 6hrs*</sub>\n"
         return section
 
-    def generate_activity_section(self, repo_stats, contributions, repos):
-        """Generate accurate development activity section"""
-        section = "## 🚀 Recent Development Activity (Auto-Updated)\n\n"
-        
-        # Contribution Overview
-        section += "### 📈 **Contribution Overview**\n"
-        section += f"- **This Week:** {contributions.get('weekly_commits', 0)} commits across {contributions.get('weekly_repos', 0)} repositories\n"
-        section += f"- **This Month:** {contributions.get('monthly_commits', 0)} commits (including private repos)\n"
-        section += f"- **This Year:** {contributions.get('yearly_commits', 0)} total commits\n"
-        
-        # Language info is already shown in GitHub Wrapped section
-        # section += f"- **Languages Used:** {lang_percentages}\n\n"
-        
-        # GitHub Achievements
-        section += "### 🏆 **GitHub Achievements**\n"
-        section += f"- 🎯 **Total Contributions:** {contributions.get('yearly_commits', 0)} (2024)\n"
-        section += f"- 📁 **Repository Activity:** {repo_stats.get('public_repos', 0)} public, {repo_stats.get('private_repos', 0)} private repositories\n"
-        section += f"- 🔥 **Most Productive Day:** {contributions.get('most_active_day', 'Unknown')}\n"
-        section += f"- ⭐ **Community Impact:** {repo_stats.get('total_stars', 0)} stars received, {repo_stats.get('total_forks', 0)} repositories forked\n\n"
-        
-        # Development Patterns
-        section += "### 📊 **Development Patterns**\n"
-        section += f"- **Peak Coding Hours:** Around {contributions.get('peak_hours', 'Unknown')}\n"
-        section += f"- **Most Active Day:** {contributions.get('most_active_day', 'Unknown')}\n"
-        section += f"- **Monthly Repository Activity:** {contributions.get('monthly_repos', 0)} different repositories\n"
-        section += f"- **Recent Event Activity:** {contributions.get('total_events', 0)} total events tracked\n\n"
-        section += "---\n\n"
-        
-        return section
-
     def update_readme(self):
         """Main function to update README.md with real data"""
         print("🤖 Fetching real GitHub statistics...")
@@ -348,29 +318,22 @@ class GitHubReadmeUpdater:
             print("❌ README.md not found!")
             return
         
-        # Generate new sections with real data
+        # Check if there are any markers to update
+        stats_exists = '<!-- STATS_START -->' in readme_content and '<!-- STATS_END -->' in readme_content
+        
+        if not stats_exists:
+            print("ℹ️  No update markers found in README. GitHub stats are displayed via external services.")
+            print("🎉 README.md structure verified!")
+            return
+        
+        # Generate new sections with real data only if markers exist
         new_stats_section = self.generate_stats_section(user_stats, repo_stats, contributions)
-        new_activity_section = self.generate_activity_section(repo_stats, contributions, repos)
         
         # Update sections
-        markers = {
-            '<!-- STATS_START -->': '<!-- STATS_END -->',
-            '<!-- PROJECTS_START -->': '<!-- PROJECTS_END -->'
-        }
-        
-        sections = {
-            '<!-- STATS_START -->': new_stats_section,
-            '<!-- PROJECTS_START -->': new_activity_section
-        }
-        
-        updated_content = readme_content
-        
-        for start_marker, end_marker in markers.items():
-            if start_marker in sections and start_marker in updated_content and end_marker in updated_content:
-                pattern = f"{re.escape(start_marker)}.*?{re.escape(end_marker)}"
-                replacement = f"{start_marker}\n{sections[start_marker]}{end_marker}"
-                updated_content = re.sub(pattern, replacement, updated_content, flags=re.DOTALL)
-                print(f"✅ Updated section: {start_marker}")
+        pattern = f"{re.escape('<!-- STATS_START -->')}.*?{re.escape('<!-- STATS_END -->')}"
+        replacement = f"<!-- STATS_START -->\n{new_stats_section}<!-- STATS_END -->"
+        updated_content = re.sub(pattern, replacement, readme_content, flags=re.DOTALL)
+        print(f"✅ Updated section: <!-- STATS_START -->")
         
         # Write updated README
         with open('README.md', 'w', encoding='utf-8') as file:
