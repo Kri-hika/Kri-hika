@@ -71,46 +71,6 @@ const rightNow: CurrentFocus = {
 
 ---
 
-## 📊 GitHub Wrapped
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kri-hika&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=bb86fc&text_color=ffffff&border_radius=12" alt="GitHub Stats" />
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://streak-stats.demolab.com?user=kri-hika&theme=radical&hide_border=true&background=0D1117&stroke=64FFDA&ring=BB86FC&fire=64FFDA&currStreakLabel=64FFDA&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border_radius=12" alt="GitHub Streak" />
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kri-hika&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=ffffff&border_radius=12&langs_count=6" alt="Top Languages" />
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kri-hika&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=64ffda&line=bb86fc&point=64ffda&area=true&area_color=64ffda&radius=12" alt="Activity Graph" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 🎯 Where I'm heading
 
 **Actively seeking:** ML Engineer / Data Pipeline Engineer / Product Engineer roles
