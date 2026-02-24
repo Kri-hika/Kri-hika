@@ -1,36 +1,24 @@
-# 👋 Hey there! I'm Krithika
+# Krithika Naidu
 
-**Master's Student in Computer Science @ UC Davis**  
-*Specializing in ML Security, Data Pipeline Engineering & Production Systems*
+**MS Computer Science @ UC Davis** · ML Systems · Data Engineering · Production Deployment
 
-Right now I'm deep in the weeds of ML security, curating datasets for LLM-based secret detection training pipelines. I built an offer letter generation system that's actively used by the UC Davis CS department (solo project!), and I'm constantly experimenting with VectorDB's semantic search capabilities through local demos. When I'm not knee-deep in data pipelines, I'm building vote-chain web applications with ResilientDB as the backend database.
-
-🎯 **Where I am:** Learning by building • Academic projects in active use • Growing through real challenges  
-🎨 **Beyond code:** Sketching, cooking, and lost in good novels fuel my creative problem-solving.
+I build systems that ship. My offer letter automation is actively used by the UC Davis CS dept — 95% faster processing, 200+ tests. I work across the stack: Python data pipelines, Go HTTP servers, vector search, and LLM-powered applications.
 
 ---
 
-## 🌊 Currently Swimming In
+## 🔨 Projects
 
-```typescript
-interface CurrentFocus {
-  primaryWork: string;
-  activeProjects: string[];
-  learningMode: string;
-  impact: string;
-}
+**GGCS Offer Generation System** *(UC Davis CS — Internal)*  
+Automated graduate funding offer letter generation for UC Davis CS. Handles financial calculations across 3 offer types, batch document generation for 30+ students, and residency matching. Built and deployed solo; actively used in production.  
+`Python` · `200+ tests` · `~90% coverage` · `95% faster processing`
 
-const rightNow: CurrentFocus = {
-  primaryWork: "Building ML systems that actually get used in production",
-  activeProjects: [
-    "UC Davis offer generation system (88% time savings, 200+ tests)",
-    "ML security pipelines with 10K+ curated datasets", 
-    "VectorDB semantic search prototypes for real applications"
-  ],
-  learningMode: "Hands-on experimentation + academic rigor + production deployment",
-  impact: "Systems in active use, not just demos"
-};
-```
+**[LightServe](https://github.com/kri-hika/LightServe)**  
+High-performance ML inference server. Python core handles quantization, operator fusion, KV caching, and SIMD kernels. Go HTTP/gRPC front-end with dynamic batching, Redis result caching, and Kubernetes deployment.  
+`Python` · `Go` · `Redis` · `Docker/K8s` · `Prometheus + Grafana`
+
+**[VectorBench](https://github.com/kri-hika/vectorbench)**  
+Local vector DB benchmarking platform. Semantic search, P95 latency metrics, accuracy verification against NumPy baseline, and a web interface.  
+`Python` · `FastAPI` · `sentence-transformers` · `SQLite`
 
 ---
 
@@ -71,18 +59,6 @@ const rightNow: CurrentFocus = {
 
 ---
 
-## 🎯 Where I'm heading
-
-**Actively seeking:** ML Engineer / Data Pipeline Engineer / Product Engineer roles
-
-Looking for teams that build ML-powered products people actually use. I want to optimize models for real-world performance, create seamless user experiences, and have fun solving problems that matter.
-
-**Target:** AI-first startups, product teams with ML at the core, or companies scaling intelligent systems.
-
-**Goal:** Build ML products that are both powerful and delightful. Ready to integrate cutting-edge models into systems that users love.
-
----
-
 ## Let's connect
 
 <a href="https://linkedin.com/in/krithikanaidu" target="_blank">
@@ -91,13 +67,6 @@ Looking for teams that build ML-powered products people actually use. I want to 
 <a href="mailto:krithika.naidu05@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-<a href="https://github.com/kri-hika" target="_blank">
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</a>
 <a href="https://substack.com/@krithikanaidu" target="_blank">
 <img src="https://img.shields.io/badge/-Substack-FF6719?style=flat-square&logo=substack&logoColor=white" alt="Substack" />
 </a>
-
----
-
-*Building real projects, learning through doing, growing every day*
