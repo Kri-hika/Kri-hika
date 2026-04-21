@@ -24,10 +24,9 @@ Local vector DB benchmarking platform. Semantic search, P95 latency metrics, acc
 
 ## 🛠️ My Digital Toolkit
 
-<div align="center">
+<h3 align="center">🔧 <strong>Technologies I'm Working With</strong></h3>
 
-### 🔧 **Technologies I'm Working With**
-
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
@@ -40,11 +39,11 @@ Local vector DB benchmarking platform. Semantic search, P95 latency metrics, acc
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib" />
 <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40" height="40" alt="Seaborn" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+</p>
 
-<br>
+<h3 align="center">🚀 <strong>Learning & Exploring</strong></h3>
 
-### 🚀 **Learning & Exploring**
-
+<p align="center">
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" alt="Hugging Face" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
@@ -54,8 +53,7 @@ Local vector DB benchmarking platform. Semantic search, P95 latency metrics, acc
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-
-</div>
+</p>
 
 ---
 
